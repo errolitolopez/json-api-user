@@ -1,0 +1,23 @@
+[
+    {
+        "email": "bryanmills@yopmail.com",
+        "last_name": "Bryan",
+        "first_name": "Mills",
+        "username": "bryanmills",
+        "password": "password"
+    },
+    {
+        "email": "jamesbond@yopmail.com",
+        "last_name": "James",
+        "first_name": "Bond",
+        "username": "jamesbond",
+        "password": "password"
+    },
+    {
+        "email": "johnmcclane@yopmail.com",
+        "last_name": "John",
+        "first_name": "McClane",
+        "username": "johnmcclane",
+        "password": "password"
+    }
+]
